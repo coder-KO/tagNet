@@ -1,0 +1,36 @@
+html,
+body,
+main,
+#intro{
+	height: 100%;
+}
+
+body{
+	background: url('../img/bgimg.jpg')no-repeat center fixed;
+/*	background: rgba(0,0,0,0.5);*/
+/*	z-index: 0;*/
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+center{
+	margin-top: 12%;
+}
+
+.mainDiv{
+	font-family: sans-serif;
+}
+
+.card{
+	width: 50%;
+	margin-left: 25%;
+	margin-top: 10%;
+}
+
+/* Download.php style */
+
+table{
+	margin-top: 10%;
+}
